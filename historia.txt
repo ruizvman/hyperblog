@@ -1,1 +1,2 @@
-Hola este es un ejemplo de un archivo
+Hola este es un ejemplo de un texto.
+Se añadieron algunos cambios a este texto.
